@@ -49,5 +49,5 @@
 <img src="https://user-images.githubusercontent.com/94511829/231564679-f2cabfc7-3ad4-454b-bc31-70f32a63a689.png">
 
 <h3>Prediction Result Page :</h3>
-<img src="https://user-images.githubusercontent.com/94511829/231564723-3af97015-a279-4ca4-82f4-860bf1ef21b4.png">
+<img src="https://user-images.githubusercontent.com/94511829/234301887-e231e767-c2ec-4764-8d17-e62b925e7d98.png">
 
