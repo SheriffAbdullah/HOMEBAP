@@ -27,6 +27,13 @@
   <li>MySQL.</li>
 </ul>
 
+<h4> New Security Features: </h4>
+<ul>
+  <li>Password Salting & Hashing.</li>
+  <li>AddeSession Login.</li>
+  <li>URL Access Denial - Cannot access the model without Authorized Login.</li>
+
+
 <br>
 
 <h2> --- ML Model --- </h2>
