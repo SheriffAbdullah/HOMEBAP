@@ -27,7 +27,7 @@
   <li>MySQL.</li>
 </ul>
 
-<h4> New Security Features: </h4>
+<h4> Security Features: </h4>
 <ul>
   <li>Password Salting & Hashing.</li>
   <li>Model Direct-URL Access Denial.</li>
