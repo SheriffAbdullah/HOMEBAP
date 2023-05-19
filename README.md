@@ -37,10 +37,10 @@
 
 <h2> --- ML Model --- </h2>
 <h3> Prediction Result : </h3>
-<img src="https://user-images.githubusercontent.com/94511829/231568506-edecb86d-e50f-48b7-87fc-988386e4765d.png">
+<img src="https://github.com/SheriffAbdullah/HOMEBAP/assets/94511829/98746fd5-7ead-4b2d-a278-db40499c84ab.png" width=700>
 
 <h3> Top 3 Model Accuracies :</h3>
-<img src="https://user-images.githubusercontent.com/94511829/231568036-1f64b17e-5499-4d0e-85f4-ae116cc2ddcb.png">
+<img src="https://github.com/SheriffAbdullah/HOMEBAP/assets/94511829/10822e50-6a34-4507-aec6-349bdd8e38fb.png" width=700>
 
 <br> 
 
